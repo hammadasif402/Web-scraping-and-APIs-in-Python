@@ -17,3 +17,7 @@
   * Handling JSON
   * Obtaining historical exchange rates
   * Extracting data from a time period
+
+
+**web scraping on cricinfo**
+* Extract all the T20 Teams Data Ranking wise.
