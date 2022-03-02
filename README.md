@@ -19,5 +19,9 @@
   * Extracting data from a time period
 
 
-**web scraping on cricinfo**
+**Web Scraping on Cricinfo**
 * Extract all the T20 Teams Data Ranking wise.
+
+
+**Scrape TrueCar Website**
+* Basically we scrape the `brand name` , `model name` ,`total mileage` , `car built year` ,`price`.
