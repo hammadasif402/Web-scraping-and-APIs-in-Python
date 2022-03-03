@@ -25,3 +25,6 @@
 
 **Scrape TrueCar Website**
 * Basically we scrape the `brand name` , `model name` ,`total mileage` , `car built year` ,`price`.
+
+**Scrape IMBD Website**
+* Scarpe the Oscar Nominated Movies From `1990` to `2020`.
