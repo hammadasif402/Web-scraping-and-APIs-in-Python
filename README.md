@@ -1,6 +1,6 @@
 ## Web-scraping-and-APIs-in-Python.
 
-**How to use APIs like EDAMAM API, Github API and iTunes API.**
+How to use `APIs` like **EDAMAM API, Github API and iTunes API.**
 
   * Initial setup and registration
   * Passing parameters
